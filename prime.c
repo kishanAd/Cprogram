@@ -52,7 +52,7 @@ int main()
   scanf("%d", &a);
   checkprime(a);
   checkprime(99999989);
-  // checkprime(33489857205);
+  
 }
 
 void checkprime(int num)
